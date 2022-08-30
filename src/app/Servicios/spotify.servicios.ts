@@ -21,7 +21,7 @@ export class VLAMusicServices {
 
         // 'Authorization': 'Bearer BQAnXEbVPnejyWqQhppGJKuE0THRQ7P1wiTFvBC4AGKimstZs-kGH3vACFITKr0pJynDeXAzQbOV-B1W42l0EUz8xxgsFEmWu1K0MsoYme5MlwIgVmKtE7ZfZQtCOwSUgcTs4z3lcCx4D3cx0uT7n-CV5G_Uq1ExhTSKti2YJyiRDUx561CZeV1QwgXbG_Vgml8'
 
-      'Authorization': 'Bearer BQCTotzmWEz8RvWQw319sgiCTiG1crnA4tNZBJORLSazoQKjjFAfsmQmcm34iFKyyvqTHi328HCPUBvDLehefCmSxJFX1dMuPPCvYn_E9P-j6h7HSP7Rm_5VbliRIGSgduLvf7-YJJZn0JilJRn8XuDb9BtgLFH59zEb9KHJkvpl9R6Q-mhhpHKeEBkEar9vPy8'
+      'Authorization': 'Bearer BQBsapH83NSuzpBLT4ZLYfMwxUTcLLzvu9c16doOQuIPNr7SPl4kYf4cMTq7yPX6e2SrPqbEFu--Pn-quHry2j3mO2MjoLcMz7SQZ_WHKKfwxugp8nK8iBps7PzXHcL8aB2K6IVI7iozU7PopEkad6GFPWtEOlUiGv2AoMBr_Ovpb88S--jxbq0MG2walpymoZQ'
 
     })
 
