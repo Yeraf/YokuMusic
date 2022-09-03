@@ -1,0 +1,30 @@
+.nav-link {
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-link:hover {
+    background-color: rgb(61, 154, 170);
+    border-radius: 20px;
+    color: black;
+    transition: 0.3s;
+}
+
+.card.container {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.card.container:hover {
+    transition: 0.5s;
+    box-shadow: 6px 6px 30px 8px rgb(3, 3, 3);
+    transform: translateX(10px);
+}
+
+.card-img-top {
+    width: 280px;
+    height: 220px;
+    margin-top: 10px;
+}

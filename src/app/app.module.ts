@@ -15,6 +15,7 @@ import { VLAMusicServices } from './Servicios/spotify.servicios';
 //Rutas y modulos
 import { APP_ROUTING } from "./app.routes";
 import {HttpClientModule  } from "@angular/common/http";
+import { SearchComponent } from './search/search.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import {HttpClientModule  } from "@angular/common/http";
     HomeComponent,
     NavbarComponent,
     BusquedaComponent,
-    FooterComponent
+    FooterComponent,
+    SearchComponent
   ],
   //Modulos
   imports: [
